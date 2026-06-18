@@ -1,0 +1,1 @@
+equipe1: Fulano sicrano, beltrano
